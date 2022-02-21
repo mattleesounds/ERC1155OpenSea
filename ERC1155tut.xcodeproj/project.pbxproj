@@ -1,0 +1,83 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CE1E496F27C2F9BE00F46F8C /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		CE1E497427C2FF4000F46F8C /* photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = photo.jpg; sourceTree = "<group>"; };
+		CE1E497527C2FF4D00F46F8C /* artwork.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = artwork.jpg; sourceTree = "<group>"; };
+		CE1E497827C301FE00F46F8C /* 0000000000000000000000000000000000000000000000000000000000000000.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 0000000000000000000000000000000000000000000000000000000000000000.json; sourceTree = "<group>"; };
+		CE1E497927C3020900F46F8C /* 0000000000000000000000000000000000000000000000000000000000000001.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 0000000000000000000000000000000000000000000000000000000000000001.json; sourceTree = "<group>"; };
+		CE1E497A27C3F7EF00F46F8C /* OpenSea_nft.sol */ = {isa = PBXFileReference; lastKnownFileType = text; path = OpenSea_nft.sol; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CE1E496827C2F9A800F46F8C = {
+			isa = PBXGroup;
+			children = (
+				CE1E497A27C3F7EF00F46F8C /* OpenSea_nft.sol */,
+				CE1E496F27C2F9BE00F46F8C /* index.html */,
+				CE1E497427C2FF4000F46F8C /* photo.jpg */,
+				CE1E497527C2FF4D00F46F8C /* artwork.jpg */,
+				CE1E497827C301FE00F46F8C /* 0000000000000000000000000000000000000000000000000000000000000000.json */,
+				CE1E497927C3020900F46F8C /* 0000000000000000000000000000000000000000000000000000000000000001.json */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CE1E496927C2F9A800F46F8C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1130;
+			};
+			buildConfigurationList = CE1E496C27C2F9A800F46F8C /* Build configuration list for PBXProject "ERC1155tut" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CE1E496827C2F9A800F46F8C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CE1E496D27C2F9A800F46F8C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CE1E496E27C2F9A800F46F8C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CE1E496C27C2F9A800F46F8C /* Build configuration list for PBXProject "ERC1155tut" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE1E496D27C2F9A800F46F8C /* Debug */,
+				CE1E496E27C2F9A800F46F8C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CE1E496927C2F9A800F46F8C /* Project object */;
+}
