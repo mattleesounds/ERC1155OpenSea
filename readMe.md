@@ -1,0 +1,1 @@
+This is a tutorial on ERC1155 token creation. It involves creating the tokens, attaching picture files using Moralis API, and listing on OpenSea using the Rinkeby test network. 
